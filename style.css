@@ -979,7 +979,7 @@ footer {
 }
 
 .project-header h3 {
-    font-size: 22px;
+    font-size: 18px;
     margin: 0;
 }
 
@@ -996,7 +996,7 @@ footer {
 }
 
 .contact-info h3 {
-    font-size: 24px;
+    font-size: 18px;
     /* Bigger heading */
 }
 
@@ -1019,12 +1019,12 @@ footer {
     display: flex;
     align-items: center;
     gap: 12px;
-    font-size: 24px;
+    font-size: 18px;
     /* Bigger text */
 }
 
 .contact-item i {
-    font-size: 24px;
+    font-size: 18px;
     color: #7aa2ff;
     /* Light blue icon */
 }
